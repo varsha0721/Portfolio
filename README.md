@@ -3,10 +3,10 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 
 # 📃 Table of Contents
 - [MLE](https://github.com/varsha0721/Portfolio/blob/main/README.md#mle)
-- Regression
-- Classification
-- NLP
-- R
+- [Regression](https://github.com/varsha0721/Portfolio/blob/main/README.md#regression)
+- [Classification](https://github.com/varsha0721/Portfolio/blob/main/README.md#Classification)
+- [NLP](https://github.com/varsha0721/Portfolio/blob/main/README.md#NLP)
+- [R](https://github.com/varsha0721/Portfolio/blob/main/README.md#R)
 
 # MLE
 <table>
@@ -114,3 +114,9 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 </table>
 
 # Regression
+
+# Classification
+
+# NLP
+
+# R
