@@ -108,8 +108,7 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
         </ul>
       </td>
     </tr>
-    <tr>
-      <td rowspan="7"><p> Developed and implemented an end-to-end machine learning pipeline for housing price prediction. The project involved cleaning and preprocessing data, generating features, and training predictive models using Linear Regression, Decision Tree, and Random Forest algorithms. Experiment tracking was performed using MLFlow, and the pipeline was modularized into scripts for ingestion, training, and scoring. The workflow was containerized with Docker for reproducibility, incorporating Docker Volumes and Mounts for efficient data management, and deployed as a scalable solution with environment management using Conda.</P></td>
-    </tr>
+    <td rowspan="7"><p> Developed and implemented an end-to-end machine learning pipeline for housing price prediction. The project involved cleaning and preprocessing data, generating features, and training predictive models using Linear Regression, Decision Tree, and Random Forest algorithms. Experiment tracking was performed using MLFlow, and the pipeline was modularized into scripts for ingestion, training, and scoring. The workflow was containerized with Docker for reproducibility, incorporating Docker Volumes and Mounts for efficient data management, and deployed as a scalable solution with environment management using Conda.</P>
+    </td>
   </tbody>
 </table>
