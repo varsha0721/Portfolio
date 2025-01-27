@@ -12,10 +12,10 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 <table>
   <thead>
     <tr>
-            <td rowspan=4>Project Link</td>
+            <th rowspan=8>Project Link</th>
     </tr>
     <tr>
-            <td rowspan=4>Tools</td>
+            <td rowspan=8>Tools</td>
     </tr>
     <tr>
       <th colspan="2">Key Techiniques</th>
@@ -25,7 +25,7 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
       <th>Details</th>
     </tr>
     <tr>
-            <td rowspan=4>Project Description</td>
+            <td rowspan=8>Project Description</td>
     </tr>
   </thead>
   <tbody>
