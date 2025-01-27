@@ -2,7 +2,7 @@
 Welcome to my data science portfolio! Here, I document a summary of my projects in the data science field.
 
 # 📃 Table of Contents
-- MLE
+- [MLE](https://github.com/varsha0721/Portfolio/blob/main/README.md#mle)
 - Regression
 - Classification
 - NLP
