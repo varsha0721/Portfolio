@@ -25,10 +25,10 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
   </thead>
   <tbody>
     <tr>
-	  <td rowspan="7"><a href="https://github.com/your-repo-link">GitHub Repository</a></td>
+	  <td rowspan="8"><a href="https://github.com/your-repo-link">GitHub Repository</a></td>
 	</tr>
 	<tr>
-      <td rowspan="7">
+      <td rowspan="8">
         <ul>
           <li>Python</li>
           <li>MLFlow</li>
