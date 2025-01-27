@@ -11,12 +11,15 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 # MLE
 <table>
   <thead>
-	<tr>
-      <th>Project Link</th>
-      <th>Tools</th>
-    </tr>
     <tr>
       <th colspan="2">Project Overview</th>
+      <th colspan="2">Details</th>
+    </tr>
+    <tr>
+      <th>Project Link</th>
+      <th>Tools</th>
+      <th>Key Techniques</th>
+      <th>Project Description</th>
     </tr>
     <tr>
       <th>Category</th>
@@ -25,10 +28,8 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
   </thead>
   <tbody>
     <tr>
-	  <td rowspan="8"><a href="https://github.com/your-repo-link">GitHub Repository</a></td>
-	</tr>
-	<tr>
-      <td rowspan="8">
+      <td rowspan="7"><a href="https://github.com/your-repo-link">GitHub Repository</a></td>
+      <td rowspan="7">
         <ul>
           <li>Python</li>
           <li>MLFlow</li>
@@ -38,8 +39,6 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
           <li>Sphinx</li>
         </ul>
       </td>
-	  </tr>
-	  <tr>
       <td><strong>1. Python Libraries and Modules</strong></td>
       <td>
         <ul>
