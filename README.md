@@ -12,6 +12,9 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 <table>
   <thead>
     <tr>
+      <th colspan="2">Key Techiniques</th>
+    </tr>
+    <tr>
       <th>Category</th>
       <th>Details</th>
     </tr>
