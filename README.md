@@ -112,3 +112,5 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
     </td>
   </tbody>
 </table>
+
+# Regression
