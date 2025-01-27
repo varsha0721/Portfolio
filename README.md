@@ -24,7 +24,7 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7"><a href="[https://github.com/your-repo-link](https://github.com/varsha0721/Housing-Price-Prediction--Regression--Sphinx--MlFlow--Docker)"> Housing Price Prediction</a></td>
+      <td rowspan="7"><a href="https://github.com/varsha0721/Housing-Price-Prediction--Regression--Sphinx--MlFlow--Docker"> Housing Price Prediction</a></td>
       <td rowspan="7">
         <ul>
           <li>Python</li>
