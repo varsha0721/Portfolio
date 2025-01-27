@@ -12,17 +12,17 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 | Project Link | Techniques | Tools | Project Description |
 |     :---:    | :---           | :---          | :--     |
 | 🏢 Housing Price Prediction | 1. Python Libraries and Modules:                       | Python, VS Code, Jupyter-Notebook |   | 
-|                                - argparse (for accepting user inputs)
-|                                - logging (for writing logs and console messages)
-|                                - pickle (for saving and reusing model objects)
-|                                - unittest (for writing test cases)
-|                                - sphinx (for documentation)
-|                                - packaging (to create and manage Python packages)
-|                                
-|                               2. Data Preparation and Evaluation:
-|                                - EDA
-|                                - Handling missing values
-|                                - Transformations
+                                - argparse (for accepting user inputs)
+                                - logging (for writing logs and console messages)
+                                - pickle (for saving and reusing model objects)
+                                - unittest (for writing test cases)
+                                - sphinx (for documentation)
+                                - packaging (to create and manage Python packages)
+                                
+                               2. Data Preparation and Evaluation:
+                                - EDA
+                                - Handling missing values
+                                - Transformations
 |                                - Feature engineering and correlation analysis
 |                                - Sampling techniques and train-test splits
 |                                - Model Evalution
