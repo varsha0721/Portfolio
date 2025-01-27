@@ -11,18 +11,21 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 # MLE
 <table>
   <thead>
-    <tr>
-      <th colspan="3">Project Overview</th>
-    </tr>
-    <tr>
+	<tr>
       <th>Project Link</th>
       <th>Tools</th>
+    </tr>
+    <tr>
+      <th colspan="2">Project Overview</th>
+    </tr>
+    <tr>
+      <th>Category</th>
       <th>Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7"><a href="https://github.com/your-repo-link">GitHub Repository</a></td>
+	  <td rowspan="7"><a href="https://github.com/your-repo-link">GitHub Repository</a></td>
       <td rowspan="7">
         <ul>
           <li>Python</li>
@@ -34,8 +37,6 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
         </ul>
       </td>
       <td><strong>1. Python Libraries and Modules</strong></td>
-    </tr>
-    <tr>
       <td>
         <ul>
           <li><code>argparse</code> (for accepting user inputs)</li>
@@ -49,8 +50,6 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
     </tr>
     <tr>
       <td><strong>2. Data Preparation and Evaluation</strong></td>
-    </tr>
-    <tr>
       <td>
         <ul>
           <li>EDA</li>
@@ -64,8 +63,6 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
     </tr>
     <tr>
       <td><strong>3. Machine Learning Algorithms</strong></td>
-    </tr>
-    <tr>
       <td>
         <ul>
           <li>Linear Regression</li>
@@ -76,9 +73,6 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
     </tr>
     <tr>
       <td><strong>4. Version Control and Environment Management</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
       <td>
         <ul>
           <li><code>conda</code> (environment setup and management)</li>
@@ -87,9 +81,30 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
       </td>
     </tr>
     <tr>
-      <td colspan="2"></td>
       <td><strong>5. Experiment Tracking</strong></td>
+      <td>
+        <ul>
+          <li>MLFlow (for managing and tracking model training experiments)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td colspan="2"></td>
+      <td><strong>6. Containerization</strong></td>
       <td>
+        <ul>
+          <li>Docker (for creating, running, and managing containerized environments)</li>
+          <li>Docker Volumes and Mounts (for file management and environment access)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>7. Packaging and Deployment</strong></td>
+      <td>
+        <ul>
+          <li>Building and installing <code>.whl</code> packages</li>
+          <li>Pushing Docker images to Docker Hub for sharing and deployment</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
