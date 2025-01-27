@@ -12,12 +12,11 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Project Overview</th>
+      <th>Project Link</th>
+      <th>Tools</th>
       <th colspan="2">Key Techniques</th>
     </tr>
     <tr>
-      <th>Project Link</th>
-      <th>Tools</th>
       <th>Category</th>
       <th>Details</th>
     </tr>
