@@ -131,15 +131,14 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7"><a href="https://github.com/varsha0721/Housing-Price-Prediction--Regression/tree/main"> Housing Price Prediction -- Regression</a></td>
-      <td rowspan="7">
+      <td rowspan="6" valign="top"><a href="https://github.com/varsha0721/Housing-Price-Prediction--Regression/tree/main"> Housing Price Prediction -- Regression</a></td>
+      <td rowspan="6" valign="top">
         <ul>
           <li>Python</li>
           <li>Jupyter Notebook</li>
           <li>Scikit-learn</li>
           <li>XGBoost</li>
           <li>LightGBM</li>
-          <li>Neural Networks</li>
           <li>Pandas, NumPy</li>
           <li>Matplotlib, Seaborn</li>
         </ul>
@@ -154,9 +153,9 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
           <li>Standardization and normalization</li>
         </ul>
       </td>
-      <td rowspan="7">
+      <td rowspan="6" valign="top">
         <p>
-          This project aims to develop a machine learning model for predicting housing prices based on property features like location, size, and number of bedrooms. The project follows a structured workflow, including data preprocessing, feature engineering, model training, and evaluation. Multiple regression models were implemented, including Linear Regression, Random Forest, Gradient Boosting, and Neural Networks. The final model was evaluated using R-squared, MAE, and RMSE to ensure high accuracy. Future improvements include expanding the dataset and deploying the model as a web-based application.
+          This project aims to develop a machine learning model for predicting housing prices based on property features like location, size, and number of bedrooms. The project follows a structured workflow, including data preprocessing, feature engineering, model training, and evaluation. Multiple regression models were implemented, including Linear Regression, Random Forest, and Gradient Boosting. The final model was evaluated using R-squared, MAE, and RMSE to ensure high accuracy.
         </p>
       </td>
     </tr>
@@ -167,7 +166,6 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
           <li>Linear Regression</li>
           <li>Random Forest Regressor</li>
           <li>Gradient Boosting (XGBoost, LightGBM)</li>
-          <li>Neural Networks</li>
         </ul>
       </td>
     </tr>
@@ -198,16 +196,6 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
           <li>Creating new features from existing data</li>
           <li>Transforming categorical variables</li>
           <li>Feature selection for better model performance</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>6. Deployment Readiness</strong></td>
-      <td>
-        <ul>
-          <li>Model serialization using Pickle</li>
-          <li>Future scope: Deploying as a web application</li>
-          <li>Creating APIs for real-time predictions</li>
         </ul>
       </td>
     </tr>
