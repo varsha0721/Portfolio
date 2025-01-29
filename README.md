@@ -221,7 +221,7 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6" valign="top"><a href="https://github.com/yourusername/loan-approval-prediction"> Loan Approval Prediction - Classification</a></td>
+      <td rowspan="6" valign="top"><a href="https://github.com/varsha0721/Loan-Approval-Prediction--Classification"> Loan Approval Prediction - Classification</a></td>
       <td rowspan="6" valign="top">
         <ul>
           <li>Python</li>
@@ -298,5 +298,75 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 
 
 # NLP
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Project Overview</th>
+      <th colspan="2">Key Techniques</th>
+      <th>Project Description</th>
+    </tr>
+    <tr>
+      <th>Project Link</th>
+      <th>Tools</th>
+      <th>Category</th>
+      <th>Details</th>
+      <th>Brief Introduction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4" valign="top"><a href="https://github.com/varsha0721/Spam-NonSpam-Email-Prediction--Classification">Spam/Non-Spam Email Prediction</a></td>
+      <td rowspan="4" valign="top">
+        <ul>
+          <li>Python</li>
+          <li>Jupyter Notebook</li>
+          <li>Scikit-learn</li>
+          <li>CountVectorizer</li>
+          <li>Naive Bayes Classifier</li>
+          <li>Pandas, NumPy</li>
+        </ul>
+      </td>
+      <td><strong>1. Data Exploration and Preprocessing</strong></td>
+      <td>
+        <ul>
+          <li>Text data cleaning</li>
+          <li>Vectorization using CountVectorizer</li>
+          <li>Tokenization and preprocessing</li>
+        </ul>
+      </td>
+      <td rowspan="4" valign="top">
+        <p>
+          This project aims to classify emails as spam or not spam using machine learning techniques. The dataset contains email text labeled as spam or non-spam. The text data was preprocessed and vectorized using CountVectorizer. A Naive Bayes classifier was implemented to learn patterns and classify new email data efficiently.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>2. Machine Learning Model</strong></td>
+      <td>
+        <ul>
+          <li>Naive Bayes Classifier</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>3. Model Evaluation</strong></td>
+      <td>
+        <ul>
+          <li>Future improvements: Accuracy, Precision, Recall, F1-score</li>
+          <li>Comparison with Logistic Regression, SVM</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>4. Feature Engineering</strong></td>
+      <td>
+        <ul>
+          <li>Exploring TF-IDF vectorization</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 # R
