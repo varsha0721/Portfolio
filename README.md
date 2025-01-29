@@ -387,8 +387,8 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4" valign="top"><a href="https://github.com/varsha0721/House-price-prediction--R">House Price Prediction -- R</a></td>
-      <td rowspan="4" valign="top">
+      <td rowspan="3" valign="top"><a href="https://github.com/varsha0721/House-price-prediction--R">House Price Prediction -- R</a></td>
+      <td rowspan="3" valign="top">
         <ul>
           <li>R</li>
           <li>RStudio</li>
@@ -404,7 +404,7 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
           <li>Feature Selection</li>
         </ul>
       </td>
-      <td rowspan="4" valign="top">
+      <td rowspan="3" valign="top">
         <p>
           This project builds a regression model in R to predict house prices based on key property features. The model was implemented using linear regression, focusing on predictors like lot area and basement square footage. The analysis includes data preprocessing, feature selection, and model evaluation using R-squared and residual analysis.
         </p>
@@ -417,16 +417,6 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
           <li>Linear Regression Model</li>
           <li>Model Training & Prediction</li>
           <li>Feature Coefficient Analysis</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>3. Evaluation Metrics</strong></td>
-      <td>
-        <ul>
-          <li>R-squared (R²) for Model Performance</li>
-          <li>Residual Analysis</li>
-          <li>Statistical Significance of Predictors</li>
         </ul>
       </td>
     </tr>
