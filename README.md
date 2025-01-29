@@ -26,7 +26,7 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7" valign="top"><a href="https://github.com/varsha0721/Housing-Price-Prediction--Regression--Sphinx--MlFlow--Docker"> Housing Price Prediction</a></td>
+      <td rowspan="7" valign="top"><a href="https://github.com/varsha0721/Housing-Price-Prediction--Regression--Sphinx--MlFlow--Docker"> Housing Price Prediction--Sphinx--MlFlow--Docker</a></td>
       <td rowspan="7" valign="top">
         <ul>
           <li>Python</li>
@@ -204,6 +204,98 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
 
 
 # Classification
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Project Overview</th>
+      <th colspan="2">Key Techniques</th>
+      <th>Project Description</th>
+    </tr>
+    <tr>
+      <th>Project Link</th>
+      <th>Tools</th>
+      <th>Category</th>
+      <th>Details</th>
+      <th>Brief Introduction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6" valign="top"><a href="https://github.com/yourusername/loan-approval-prediction"> Loan Approval Prediction - Classification</a></td>
+      <td rowspan="6" valign="top">
+        <ul>
+          <li>Python</li>
+          <li>Jupyter Notebook</li>
+          <li>Scikit-learn</li>
+          <li>XGBoost</li>
+          <li>LightGBM</li>
+          <li>Support Vector Machine (SVM)</li>
+          <li>Pandas, NumPy</li>
+          <li>Matplotlib, Seaborn</li>
+        </ul>
+      </td>
+      <td><strong>1. Data Exploration and Preprocessing</strong></td>
+      <td>
+        <ul>
+          <li>Data overview and feature analysis</li>
+          <li>Handling missing values</li>
+          <li>Encoding categorical variables</li>
+          <li>Feature engineering</li>
+          <li>Standardization of numerical features</li>
+        </ul>
+      </td>
+      <td rowspan="6" valign="top">
+        <p>
+          This project aims to develop a predictive model for loan approvals based on applicant data such as income, credit history, and loan amount. It assists financial institutions in making data-driven decisions and streamlining the loan approval process. 
+          Multiple classification models were implemented, including Logistic Regression, Decision Trees, Random Forest, SVM, and Gradient Boosting (XGBoost, LightGBM). The final model was evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>2. Machine Learning Models</strong></td>
+      <td>
+        <ul>
+          <li>Logistic Regression</li>
+          <li>Decision Trees</li>
+          <li>Random Forest Classifier</li>
+          <li>Support Vector Machine (SVM)</li>
+          <li>Gradient Boosting (XGBoost, LightGBM)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>3. Model Evaluation</strong></td>
+      <td>
+        <ul>
+          <li>Accuracy</li>
+          <li>Precision, Recall, and F1-Score</li>
+          <li>ROC-AUC Score</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>4. Data Visualization</strong></td>
+      <td>
+        <ul>
+          <li>Feature importance analysis</li>
+          <li>Correlation heatmaps</li>
+          <li>Class distribution plots</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>5. Feature Engineering</strong></td>
+      <td>
+        <ul>
+          <li>Creating new features from applicant attributes</li>
+          <li>Transforming categorical variables</li>
+          <li>Feature selection for model optimization</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 # NLP
 
