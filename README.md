@@ -26,8 +26,8 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7"><a href="https://github.com/varsha0721/Housing-Price-Prediction--Regression--Sphinx--MlFlow--Docker"> Housing Price Prediction</a></td>
-      <td rowspan="7">
+      <td rowspan="7" valign="top"><a href="https://github.com/varsha0721/Housing-Price-Prediction--Regression--Sphinx--MlFlow--Docker"> Housing Price Prediction</a></td>
+      <td rowspan="7" valign="top">
         <ul>
           <li>Python</li>
           <li>MLFlow</li>
@@ -49,7 +49,7 @@ Welcome to my data science portfolio! Here, I document a summary of my projects 
           <li><code>packaging</code> (to create and manage Python packages)</li>
         </ul>
       </td>
-      <td rowspan="7"><p> Developed and implemented an end-to-end machine learning pipeline for housing price prediction. The project involved cleaning and preprocessing data, generating features, and training predictive models using Linear Regression, Decision Tree, and Random Forest algorithms. Experiment tracking was performed using MLFlow, and the pipeline was modularized into scripts for ingestion, training, and scoring. The workflow was containerized with Docker for reproducibility, incorporating Docker Volumes and Mounts for efficient data management, and deployed as a scalable solution with environment management using Conda.</P>
+      <td rowspan="7" valign="top"><p> Developed and implemented an end-to-end machine learning pipeline for housing price prediction. The project involved cleaning and preprocessing data, generating features, and training predictive models using Linear Regression, Decision Tree, and Random Forest algorithms. Experiment tracking was performed using MLFlow, and the pipeline was modularized into scripts for ingestion, training, and scoring. The workflow was containerized with Docker for reproducibility, incorporating Docker Volumes and Mounts for efficient data management, and deployed as a scalable solution with environment management using Conda.</P>
     </tr>
     <tr>
       <td><strong>2. Data Preparation and Evaluation</strong></td>
